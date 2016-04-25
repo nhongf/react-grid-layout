@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:STRML/react-grid-layout.git"
+    "url": "git@github.com:nhongf/react-grid-layout.git"
   },
   "keywords": [
     "react",
